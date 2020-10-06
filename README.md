@@ -1,4 +1,4 @@
 # Práctica 1
 Repositorio de prácticas
 
-Incluye a continuación tu nombre y apellidos:
+Incluye a continuación tu nombre y apellidos:Carlos Hernandez Arcas
